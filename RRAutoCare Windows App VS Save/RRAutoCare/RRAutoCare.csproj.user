@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Dumindu De Silva\source\repos\RRAutoCare\RRAutoCare\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddACashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEnquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminVehicleCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierWebBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierOverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerOverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMyDetailsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMyDetailsAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierNewJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewEnquiries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewJobStep2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCashiers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RespondedEnquiries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateACashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateACustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
